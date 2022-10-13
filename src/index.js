@@ -7,4 +7,7 @@ const consumeDummyFunciton = () => {
 const dummyFunction = () => {
     console.log('this is a dummy funciton');
 }
+const revert = () => {
+    console.log('another some code')
+}
 export default init;
