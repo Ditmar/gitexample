@@ -1,4 +1,6 @@
 const dummyFunction = () => {
-    console.log('this is a dummy function');
+    if (true) {
+        return 'something'
+    }
 }
 export default dummyFunction;
